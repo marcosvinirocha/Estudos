@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## a definir
 
-- [ ] Apresentação das atividades
+- [ ] Apresentação das atividades de ingles faculdade
 
 
 ## Desenvolvimento
