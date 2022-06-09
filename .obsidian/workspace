@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudos/Javascript-DOM-API-cheatsheet.md",
+            "file": "Estudos/regex.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos/Javascript-DOM-API-cheatsheet.md",
+                "file": "Estudos/regex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "86a3b04b86b98c5f",
   "lastOpenFiles": [
-    "Estudos/Javascript-DOM-API-cheatsheet.md",
-    "Estudos/Percorrer Dom Javascript.md",
     "Estudos/regex.md",
+    "Estudos/Percorrer Dom Javascript.md",
+    "Estudos/Javascript-DOM-API-cheatsheet.md",
     "Estudos/Cola Javascript PTBR.md",
-    "Estudos/Javascript.md",
     "Atividades/Atividades dia a dia.md",
+    "Estudos/Javascript.md",
     "Sem título.md",
     "Day Planners/Day Planner-20220609.md"
   ]
