@@ -47,14 +47,19 @@
       "icon": "quote-glyph"
     },
     {
-      "id": "obsidian-kanban:add-kanban-lane",
-      "name": "Kanban: Adicionar uma lista",
-      "icon": "calendar-with-checkmark"
-    },
-    {
       "id": "editor:toggle-numbered-list",
       "name": "Toggle numbered list",
       "icon": "number-list-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-comments",
+      "name": "cMenu: Toggle comment",
+      "icon": "percent-sign-glyph"
+    },
+    {
+      "id": "workspace:export-pdf",
+      "name": "Exportar para PDF",
+      "icon": "document"
     }
   ],
   "appendMethod": "workspace",
