@@ -1,5 +1,6 @@
 [
   "obsidian-electron-window-tweaker",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "cmenu-plugin"
 ]
