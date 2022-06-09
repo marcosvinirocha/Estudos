@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "d3181cbe6e8bc05f",
+    "type": "split",
+    "children": [
+      {
+        "id": "86a3b04b86b98c5f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41c4f52bfd1cf99e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cb1c5a0c18b5bbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f20e64f626423ccc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e67e51d23a4df13b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbb6dcf6e914bf6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f91f8b6a997a1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d157e6cc48780fc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "86a3b04b86b98c5f",
+  "lastOpenFiles": [
+    "Estudos/Percorrer Dom.md",
+    "Estudos/regex.md",
+    "Estudos/Javascript.md",
+    "Atividades/Atividades dia a dia.md",
+    "Sem título.md",
+    "Day Planners/Day Planner-20220609.md"
+  ]
+}
