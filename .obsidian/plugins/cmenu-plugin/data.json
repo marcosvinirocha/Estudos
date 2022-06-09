@@ -60,6 +60,11 @@
       "id": "workspace:export-pdf",
       "name": "Exportar para PDF",
       "icon": "document"
+    },
+    {
+      "id": "markdown-importer:open",
+      "name": "Importador de formato Markdown: Abrir importador Markdown",
+      "icon": "import-glyph"
     }
   ],
   "appendMethod": "workspace",

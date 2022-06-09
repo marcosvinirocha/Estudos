@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudos/regex.md",
+            "file": "Estudos/Cola Javascript.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos/regex.md",
+                "file": "Estudos/Cola Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "86a3b04b86b98c5f",
   "lastOpenFiles": [
-    "Estudos/regex.md",
+    "Estudos/Cola Javascript.md",
     "Estudos/Percorrer Dom Javascript.md",
     "Estudos/Javascript-DOM-API-cheatsheet.md",
-    "Estudos/Cola Javascript PTBR.md",
+    "Estudos/regex.md",
     "Atividades/Atividades dia a dia.md",
     "Estudos/Javascript.md",
     "Sem título.md",
