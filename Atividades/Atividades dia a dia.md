@@ -6,11 +6,12 @@ kanban-plugin: basic
 
 ## a definir
 
-- [ ] terminar a atividade 27 udemy labluby
+- [ ] Apresentação das atividades
 
 
 ## Desenvolvimento
 
+- [ ] terminar a atividade 27 udemy labluby
 
 
 ## Terminados
