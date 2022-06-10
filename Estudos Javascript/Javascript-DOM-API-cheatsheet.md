@@ -308,7 +308,7 @@ text content.
 
 ## Copiar arrays
 ````javascript
-Array.prototype.slice() //copiar arrays
+Array.prototype.slice.call() //copiar arrays
 
 
 ````
