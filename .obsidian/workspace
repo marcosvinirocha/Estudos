@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudos Javascript/Anotações Uteis.md",
-            "mode": "source"
+            "file": "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
+            "mode": "preview"
           }
         }
       },
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos Javascript/Anotações Uteis.md",
+                "file": "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c08f3d77c19e213b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,13 +108,13 @@
   },
   "active": "86a3b04b86b98c5f",
   "lastOpenFiles": [
+    "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
+    "Estudos Javascript/regex.md",
     "Estudos Javascript/Anotações Uteis.md",
     "Estudos Javascript/Cola Javascript.md",
     "Atividades/Atividades dia a dia.md",
     "2022-06-09.md",
-    "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
     "Estudos Javascript/Percorrer Dom Javascript.md",
-    "Estudos Javascript/regex.md",
     "Estudos/Javascript.md",
     "Sem título.md",
     "Day Planners/Day Planner-20220609.md"
