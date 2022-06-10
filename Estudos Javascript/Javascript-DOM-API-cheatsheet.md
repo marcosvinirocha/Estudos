@@ -313,86 +313,111 @@ Array.prototype.toString.call() //mostrar o tipo da variavel
 
 //-----------------------------------------------------------
 
-DOM.prototype.forEach = function () {
+DOM.prototype.forEach = function forEach() {
 
 Array.prototype.forEach.apply(this.element, arguments)
 
 }
 
-DOM.prototype.map = function () {
+  
+
+DOM.prototype.map = function map() {
 
 Array.prototype.map.apply(this.element, arguments)
 
 }
 
-DOM.prototype.filter = function () {
+  
+
+DOM.prototype.filter = function filter() {
 
 Array.prototype.filter.apply(this.element, arguments)
 
 }
 
-DOM.prototype.reduce = function () {
+  
+
+DOM.prototype.reduce = function reduce() {
 
 Array.prototype.reduce.apply(this.element, arguments)
 
 }
 
+  
 
-DOM.prototype.reduceRight = function () {
+DOM.prototype.reduceRight = function reduceRight() {
 
 Array.prototype.reduceRight.apply(this.element, arguments)
 
 }
 
-DOM.prototype.every = function () {
+  
+
+DOM.prototype.every = function every() {
 
 Array.prototype.every.apply(this.element, arguments)
 
 }
 
-DOM.prototype.some = function () {
+  
+
+DOM.prototype.some = function some() {
 
 Array.prototype.some.apply(this.element, arguments)
 
 }
 
-DOM.prototype.isArray = function (obj) {
+  
+
+DOM.prototype.isArray = function isArray(obj) {
 
 return Object.prototype.toString.call(obj) === '[object Array]'
 
 }
 
-DOM.prototype.isObject = function (obj) {
+  
+
+DOM.prototype.isObject = function isObject(obj) {
 
 return Object.prototype.toString.call(obj) === '[object Object]'
 
 }
 
-DOM.prototype.isFunction = function (obj) {
+  
+
+DOM.prototype.isFunction = function isFunction(obj) {
 
 return Object.prototype.toString.call(obj) === '[object Function]'
 
 }
 
-DOM.prototype.isNumber = function (obj) {
+  
+
+DOM.prototype.isNumber = function isNumber(obj) {
 
 return Object.prototype.toString.call(obj) === '[object Number]'
 
 }
 
-DOM.prototype.isString = function (obj) {
+  
+
+DOM.prototype.isString = function isString(obj) {
 
 return Object.prototype.toString.call(obj) === '[object String]'
 
 }
 
-DOM.prototype.isBoolean = function (obj) {
+  
+
+DOM.prototype.isBoolean = function isBoolean(obj) {
 
 return Object.prototype.toString.call(obj) === '[object Boolean]'
 
 }
 
-DOM.prototype.isNull = function (obj) {
+  
+
+DOM.prototype.isNull = function isNull(obj) {
 
 return Object.prototype.toString.call(obj) === '[object Null]'
 
