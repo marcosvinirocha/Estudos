@@ -306,9 +306,9 @@ element as a string—including all child nodes with their attributes and
 text content.
 ```
 
-## Copiar arrays
+## Copiar arrays e Mostrar tipos de Variaveis
 ````javascript
 Array.prototype.slice.call() //copiar arrays
-
+Array.prototype.toString.call() //mostrar o tipo da variavel
 
 ````
