@@ -57,11 +57,6 @@
       "icon": "percent-sign-glyph"
     },
     {
-      "id": "workspace:export-pdf",
-      "name": "Exportar para PDF",
-      "icon": "document"
-    },
-    {
       "id": "editor:set-heading",
       "name": "Toggle heading",
       "icon": "heading-glyph"
@@ -70,11 +65,16 @@
       "id": "editor:toggle-bullet-list",
       "name": "Toggle bullet list",
       "icon": "bullet-list-glyph"
+    },
+    {
+      "id": "workspace:export-pdf",
+      "name": "Exportar para PDF",
+      "icon": "document"
     }
   ],
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 9
+  "cMenuNumRows": 14
 }
