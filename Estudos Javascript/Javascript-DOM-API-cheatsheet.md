@@ -311,4 +311,91 @@ text content.
 Array.prototype.slice.call() //copiar arrays
 Array.prototype.toString.call() //mostrar o tipo da variavel
 
+//-----------------------------------------------------------
+
+DOM.prototype.forEach = function () {
+
+Array.prototype.forEach.apply(this.element, arguments)
+
+}
+
+DOM.prototype.map = function () {
+
+Array.prototype.map.apply(this.element, arguments)
+
+}
+
+DOM.prototype.filter = function () {
+
+Array.prototype.filter.apply(this.element, arguments)
+
+}
+
+DOM.prototype.reduce = function () {
+
+Array.prototype.reduce.apply(this.element, arguments)
+
+}
+
+
+DOM.prototype.reduceRight = function () {
+
+Array.prototype.reduceRight.apply(this.element, arguments)
+
+}
+
+DOM.prototype.every = function () {
+
+Array.prototype.every.apply(this.element, arguments)
+
+}
+
+DOM.prototype.some = function () {
+
+Array.prototype.some.apply(this.element, arguments)
+
+}
+
+DOM.prototype.isArray = function (obj) {
+
+return Object.prototype.toString.call(obj) === '[object Array]'
+
+}
+
+DOM.prototype.isObject = function (obj) {
+
+return Object.prototype.toString.call(obj) === '[object Object]'
+
+}
+
+DOM.prototype.isFunction = function (obj) {
+
+return Object.prototype.toString.call(obj) === '[object Function]'
+
+}
+
+DOM.prototype.isNumber = function (obj) {
+
+return Object.prototype.toString.call(obj) === '[object Number]'
+
+}
+
+DOM.prototype.isString = function (obj) {
+
+return Object.prototype.toString.call(obj) === '[object String]'
+
+}
+
+DOM.prototype.isBoolean = function (obj) {
+
+return Object.prototype.toString.call(obj) === '[object Boolean]'
+
+}
+
+DOM.prototype.isNull = function (obj) {
+
+return Object.prototype.toString.call(obj) === '[object Null]'
+
+}
+
 ````
