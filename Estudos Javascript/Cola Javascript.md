@@ -1841,3 +1841,4 @@ myArray.push("firstEl") // myArray is being mutated
 A variable is said to be *immutable* if it can't be mutated.
 
 [Check MDN Mutable article](https://developer.mozilla.org/en-US/docs/Glossary/Mutable) for more details.
+

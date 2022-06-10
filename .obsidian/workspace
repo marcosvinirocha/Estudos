@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
-            "mode": "preview"
+            "file": "Estudos Javascript/Cola Javascript.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "360ce72b6ab75c5d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Estudos Javascript/Cola Javascript.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
+                "file": "Estudos Javascript/Cola Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +99,11 @@
   },
   "active": "86a3b04b86b98c5f",
   "lastOpenFiles": [
-    "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
-    "Estudos Javascript/Percorrer Dom Javascript.md",
     "Estudos Javascript/Cola Javascript.md",
     "Atividades/Atividades dia a dia.md",
+    "2022-06-09.md",
+    "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
+    "Estudos Javascript/Percorrer Dom Javascript.md",
     "Estudos Javascript/regex.md",
     "Estudos/Javascript.md",
     "Sem título.md",
