@@ -305,3 +305,10 @@ element.innerHTML: Reads or writes the HTML content of the given
 element as a string—including all child nodes with their attributes and  
 text content.
 ```
+
+## Copiar arrays
+````javascript
+Array.prototype.slice() //copiar arrays
+
+
+````
