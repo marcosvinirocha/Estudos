@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## a definir
 
+- [ ] Fezer um audio para o trabalho de ingles
+- [ ] AJudar a fazer o trabalho para entregar hoje
 
 
 ## Desenvolvimento
