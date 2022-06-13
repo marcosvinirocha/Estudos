@@ -7,9 +7,10 @@
         "id": "eb7206c9bad2ea53",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Atividades/Atividades dia a dia.md"
+            "file": "Estudos Javascript/Anotações Uteis.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atividades/Atividades dia a dia.md",
+                "file": "Estudos Javascript/Anotações Uteis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +97,8 @@
   },
   "active": "eb7206c9bad2ea53",
   "lastOpenFiles": [
-    "Atividades/Atividades dia a dia.md",
     "Estudos Javascript/Anotações Uteis.md",
+    "Atividades/Atividades dia a dia.md",
     "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
     "Estudos Javascript/regex.md",
     "Estudos Javascript/Cola Javascript.md",
