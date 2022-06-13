@@ -7,10 +7,9 @@
         "id": "eb7206c9bad2ea53",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Estudos Javascript/Anotações Uteis.md",
-            "mode": "source"
+            "file": "Atividades/Atividades dia a dia.md"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos Javascript/Anotações Uteis.md",
+                "file": "Atividades/Atividades dia a dia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +96,13 @@
   },
   "active": "eb7206c9bad2ea53",
   "lastOpenFiles": [
-    "Estudos Javascript/Anotações Uteis.md",
     "Atividades/Atividades dia a dia.md",
-    "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
+    "Estudos Javascript/Anotações Uteis.md",
     "Estudos Javascript/regex.md",
-    "Estudos Javascript/Cola Javascript.md",
-    "2022-06-09.md",
     "Estudos Javascript/Percorrer Dom Javascript.md",
+    "Estudos Javascript/Cola Javascript.md",
+    "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
+    "2022-06-09.md",
     "Estudos/Javascript.md",
     "Sem título.md",
     "Day Planners/Day Planner-20220609.md"
