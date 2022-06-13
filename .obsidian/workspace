@@ -7,8 +7,11 @@
         "id": "f03b67d7048ba414",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Estudos Javascript/Anotações Uteis.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudos Javascript/Anotações Uteis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +97,9 @@
   },
   "active": "f03b67d7048ba414",
   "lastOpenFiles": [
+    "Estudos Javascript/Anotações Uteis.md",
     "2022-06-13.md",
     "Atividades/Atividades dia a dia.md",
-    "Estudos Javascript/Anotações Uteis.md",
     "Estudos Javascript/regex.md",
     "Estudos Javascript/Percorrer Dom Javascript.md",
     "Estudos Javascript/Cola Javascript.md",
