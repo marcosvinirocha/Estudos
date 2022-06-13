@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudos Javascript/horario para add no timeshift.md",
-            "mode": "source"
+            "file": "Estudos Javascript/Anotações Uteis.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos Javascript/horario para add no timeshift.md",
+                "file": "Estudos Javascript/Anotações Uteis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
   },
   "active": "f03b67d7048ba414",
   "lastOpenFiles": [
-    "Estudos Javascript/horario para add no timeshift.md",
     "Estudos Javascript/Anotações Uteis.md",
+    "Estudos Javascript/horario para add no timeshift.md",
     "Estudos Javascript/Cola Javascript.md",
     "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
     "2022-06-13.md",
