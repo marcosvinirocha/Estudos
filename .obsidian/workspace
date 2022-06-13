@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb7206c9bad2ea53",
+        "id": "f03b67d7048ba414",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Atividades/Atividades dia a dia.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atividades/Atividades dia a dia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,8 +91,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb7206c9bad2ea53",
+  "active": "f03b67d7048ba414",
   "lastOpenFiles": [
+    "2022-06-13.md",
     "Atividades/Atividades dia a dia.md",
     "Estudos Javascript/Anotações Uteis.md",
     "Estudos Javascript/regex.md",
@@ -104,7 +102,6 @@
     "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
     "2022-06-09.md",
     "Estudos/Javascript.md",
-    "Sem título.md",
-    "Day Planners/Day Planner-20220609.md"
+    "Sem título.md"
   ]
 }
