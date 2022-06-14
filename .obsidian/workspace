@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudos Javascript/regex.md",
-            "mode": "preview"
+            "file": "Atividades/timeshift commits.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos Javascript/regex.md",
+                "file": "Atividades/timeshift commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "f03b67d7048ba414",
   "lastOpenFiles": [
-    "Estudos Javascript/regex.md",
+    "Atividades/timeshift commits.md",
+    "Estudos Javascript/Anotações Uteis.md",
     "Estudos Javascript/Percorrer Dom Javascript.md",
     "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
+    "Estudos Javascript/regex.md",
     "Estudos Javascript/Cola Javascript.md",
-    "Estudos Javascript/Anotações Uteis.md",
     "Atividades/Atividades dia a dia.md",
     "Estudos Javascript/horario para add no timeshift.md",
     "2022-06-13.md",
-    "2022-06-09.md",
-    "Estudos/Javascript.md"
+    "2022-06-09.md"
   ]
 }
