@@ -7,10 +7,30 @@
         "id": "f03b67d7048ba414",
         "type": "leaf",
         "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Atividades/Atividades dia a dia.md"
+          }
+        }
+      },
+      {
+        "id": "80a3143bef0e518d",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Atividades/Atividades dia a dia.md"
+          }
+        }
+      },
+      {
+        "id": "c141780f82ff05c4",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Atividades/timeshift commits.md",
-            "mode": "source"
+            "file": "Estudos Javascript/Anotações Uteis.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atividades/timeshift commits.md",
+                "file": "Atividades/Atividades dia a dia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +117,13 @@
   },
   "active": "f03b67d7048ba414",
   "lastOpenFiles": [
-    "Atividades/timeshift commits.md",
+    "Atividades/Atividades dia a dia.md",
     "Estudos Javascript/Anotações Uteis.md",
     "Estudos Javascript/Cola Javascript.md",
+    "Atividades/timeshift commits.md",
     "Estudos Javascript/Percorrer Dom Javascript.md",
     "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
     "Estudos Javascript/regex.md",
-    "Atividades/Atividades dia a dia.md",
     "Estudos Javascript/horario para add no timeshift.md",
     "2022-06-13.md",
     "2022-06-09.md"
