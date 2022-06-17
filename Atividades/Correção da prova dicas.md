@@ -11,7 +11,7 @@
 - [ ] funçao de apagar carrinho de compra separado
 - [x] uso do let somente se for mudar alguma coisa.
 - [ ] usuario deve selecionar o numero maximo permitido para apostas
-- [ ] Fazer a logo em svg e aplicar no front
+- [x] Fazer a logo em svg e aplicar no front
 - [x] implentar o titulo e os buttoes
 - [x] pesquisar pra remover ids
 - [x] variavel que pega tudo inves do let
