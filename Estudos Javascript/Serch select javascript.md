@@ -16,3 +16,14 @@ values.split(',').forEach(function(v) {
     <option value="On">On</option>
 </select>
 ```
+
+
+```javascript
+
+// if (optionElement.selected) {
+
+// this._select(itemElement);
+
+// }
+
+```
