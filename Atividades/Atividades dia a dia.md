@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## BackLog
 
-- [ ] **RF07. Complete game:** a função de complete game, pode completar um jogo em andamento e ao utilizar o complete game, o usuário deve conseguir mudar os números manualmente na cartela
 - [ ] **RF09. Add to cart**: O max-number é o número exato que um usuário deve selecionar para conseguir fazer uma aposta! Ou seja, não deve permitir o cadastro de cartelas cujo os números selecionados seja maior ou menor do que o especificado na chave max-number
 
 
@@ -24,6 +23,7 @@ kanban-plugin: basic
 - [x] **RF02. Clear game**: limpar todos os números selecionados
 - [x] **RF04. Delete**: apagar um item do carrinho
 - [x] **RF05. Listagem de jogos dinâmica**: De acordo com o que é excluído ou adicionado um novo objeto no array de games no arquivo JSON, esta ação deve interferir na renderização dos jogos para aposta.
+- [x] **RF07. Complete game:** a função de complete game, pode completar um jogo em andamento e ao utilizar o complete game, o usuário deve conseguir mudar os números manualmente na cartela
 
 
 

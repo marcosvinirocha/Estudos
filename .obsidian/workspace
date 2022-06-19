@@ -7,10 +7,9 @@
         "id": "f03b67d7048ba414",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Estudos Javascript/Anotações Uteis.md",
-            "mode": "preview"
+            "file": "Atividades/Atividades dia a dia.md"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos Javascript/Anotações Uteis.md",
+                "file": "Atividades/Atividades dia a dia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +104,8 @@
   },
   "active": "f03b67d7048ba414",
   "lastOpenFiles": [
-    "Estudos Javascript/Anotações Uteis.md",
     "Atividades/Atividades dia a dia.md",
+    "Estudos Javascript/Anotações Uteis.md",
     "Estudos Javascript/Serch select javascript.md",
     "Atividades/Correção da prova dicas.md",
     "Estudos Javascript/Cola Javascript.md",
