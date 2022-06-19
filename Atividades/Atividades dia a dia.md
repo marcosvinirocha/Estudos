@@ -10,7 +10,6 @@ kanban-plugin: basic
 
 ## A fazer
 
-- [ ] **RF09. Add to cart**: O max-number é o número exato que um usuário deve selecionar para conseguir fazer uma aposta! Ou seja, não deve permitir o cadastro de cartelas cujo os números selecionados seja maior ou menor do que o especificado na chave max-number
 
 
 ## Terminados
@@ -24,6 +23,7 @@ kanban-plugin: basic
 - [x] **RF06. Seleção de jogo obrigatória**: O primeiro jogo do array sempre deve vir selecionado por padrão
 - [x] **RF07. Complete game:** a função de complete game, pode completar um jogo em andamento e ao utilizar o complete game, o usuário deve conseguir mudar os números manualmente na cartela
 - [x] **RF08. Add to cart**: Ao adicionar uma nova aposta no carrinho, os números da cartela devem ser limpos
+- [x] **RF09. Add to cart**: O max-number é o número exato que um usuário deve selecionar para conseguir fazer uma aposta! Ou seja, não deve permitir o cadastro de cartelas cujo os números selecionados seja maior ou menor do que o especificado na chave max-number
 
 
 
