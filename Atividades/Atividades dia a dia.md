@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## BackLog
 
-- [ ] **RF09. Add to cart**: O max-number é o número exato que um usuário deve selecionar para conseguir fazer uma aposta! Ou seja, não deve permitir o cadastro de cartelas cujo os números selecionados seja maior ou menor do que o especificado na chave max-number
 
 
 ## A fazer
 
+- [ ] **RF09. Add to cart**: O max-number é o número exato que um usuário deve selecionar para conseguir fazer uma aposta! Ou seja, não deve permitir o cadastro de cartelas cujo os números selecionados seja maior ou menor do que o especificado na chave max-number
 
 
 ## Terminados
