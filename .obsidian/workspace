@@ -7,9 +7,10 @@
         "id": "f03b67d7048ba414",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Atividades/Atividades dia a dia.md"
+            "file": "Atividades/Correção da prova dicas.md",
+            "mode": "preview"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atividades/Atividades dia a dia.md",
+                "file": "Atividades/Correção da prova dicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,12 +105,12 @@
   },
   "active": "f03b67d7048ba414",
   "lastOpenFiles": [
+    "Atividades/Correção da prova dicas.md",
+    "Atividades/timeshift commits.md",
     "Atividades/Atividades dia a dia.md",
     "Estudos Javascript/Anotações Uteis.md",
     "Estudos Javascript/Serch select javascript.md",
-    "Atividades/Correção da prova dicas.md",
     "Estudos Javascript/Cola Javascript.md",
-    "Atividades/timeshift commits.md",
     "Estudos Javascript/Percorrer Dom Javascript.md",
     "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
     "Estudos Javascript/regex.md",

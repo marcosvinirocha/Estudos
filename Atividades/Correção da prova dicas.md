@@ -3,17 +3,17 @@
 - [x] Manter selecionado o texto quando carrega a pagina
 - [x] configurar max number de apostas 
 - [x] função para verificar a quantidade de numeros que selecionar e completar o restante (complete game button)
-- [ ] verificar se deve implemetar os numeros gerados  nos inputs do jogo.
-- [ ] Formatar com virgula sem virgual no final
+- [x] verificar se deve implemetar os numeros gerados  nos inputs do jogo.
+- [x] Formatar com virgula sem virgual no final
 - [x] icones nos botoes relacionados no prototipo
-- [ ] Formatação monetaria em reais
+- [x] Formatação monetaria em reais
 - [x] renderizar os tipos dos jogos no front usando Ajax lendo o json.
-- [ ] funçao de apagar carrinho de compra separado
+- [x] funçao de apagar carrinho de compra separado
 - [x] uso do let somente se for mudar alguma coisa.
-- [ ] usuario deve selecionar o numero maximo permitido para apostas
+- [x] usuario deve selecionar o numero maximo permitido para apostas
 - [x] Fazer a logo em svg e aplicar no front
 - [x] implentar o titulo e os buttoes
 - [x] pesquisar pra remover ids
 - [x] variavel que pega tudo inves do let
-- [ ] função para pegar numeros  e criar novos elementos para percorrer o foreach para salvar os dados no carrinho 
+- [x] função para pegar numeros  e criar novos elementos para percorrer o foreach para salvar os dados no carrinho 
 - [x] add função de soma
