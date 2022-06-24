@@ -1842,3 +1842,43 @@ A variable is said to be *immutable* if it can't be mutated.
 
 [Check MDN Mutable article](https://developer.mozilla.org/en-US/docs/Glossary/Mutable) for more details.
 
+
+
+// var elChildNode = document.querySelector("#details").childNodes;
+
+// console.log(elChildNode);
+
+// var zero = "R$ 0,00";
+
+// let node = document.getElementById("item");
+
+// var totalel = node.querySelector("#totalCart").textContent
+
+// var moneyReal = document.querySelector("#moneyReal").textContent
+
+// var parsedTotalel = parseInt(totalel);
+
+// var parsedMoneyReal = parseInt(moneyReal);
+
+// var sub = parsedMoneyReal - parsedTotalel;
+
+// console.log(moneyReal);
+
+// const transformMoney = sub.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+
+  
+
+// console.log(sub);
+
+// if (node.parentNode == null) {
+
+// node.remove(node)
+
+// $("#money").text(transformMoney);
+
+// } else {
+
+// console.log('removendo ainda');
+
+// }
+
