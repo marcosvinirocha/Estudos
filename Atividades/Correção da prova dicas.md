@@ -1,19 +1,7 @@
-- [x] Fidelizar prototipo
-- [x] Mostrar texto Titulo
-- [x] Manter selecionado o texto quando carrega a pagina
-- [x] configurar max number de apostas 
-- [x] função para verificar a quantidade de numeros que selecionar e completar o restante (complete game button)
-- [x] verificar se deve implemetar os numeros gerados  nos inputs do jogo.
-- [x] Formatar com virgula sem virgual no final
-- [x] icones nos botoes relacionados no prototipo
-- [x] Formatação monetaria em reais
-- [x] renderizar os tipos dos jogos no front usando Ajax lendo o json.
-- [x] funçao de apagar carrinho de compra separado
-- [x] uso do let somente se for mudar alguma coisa.
-- [x] usuario deve selecionar o numero maximo permitido para apostas
-- [x] Fazer a logo em svg e aplicar no front
-- [x] implentar o titulo e os buttoes
-- [x] pesquisar pra remover ids
-- [x] variavel que pega tudo inves do let
-- [x] função para pegar numeros  e criar novos elementos para percorrer o foreach para salvar os dados no carrinho 
-- [x] add função de soma
+- [ ] fidelidade ao prototipo
+- [ ] ajustar carrinho no formato monetario
+- [ ] background das bolas selecionadas de acordo com jogo
+- [ ] calculo das bolas seleciondados de acordo com o jogo quando apresentar a mensagem
+- [ ] não deixar que a bolas seleciiondas do jogo nao seja ultrapassadas de acordo com a quantidade de bolas selecionadas
+- [ ] add um scroll no carrinho de compras de acordo com a quantidade de apostas selecionadas.
+- [ ] ajustar o calculo do carrinho pois se o manoel perceber vai falar de novo

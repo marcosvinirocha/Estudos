@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudos Javascript/Cola Javascript.md",
+            "file": "Atividades/Correção da prova dicas.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos Javascript/Cola Javascript.md",
+                "file": "Atividades/Correção da prova dicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +105,8 @@
   },
   "active": "f03b67d7048ba414",
   "lastOpenFiles": [
-    "Estudos Javascript/Cola Javascript.md",
     "Atividades/Correção da prova dicas.md",
+    "Estudos Javascript/Cola Javascript.md",
     "Atividades/timeshift commits.md",
     "Atividades/Atividades dia a dia.md",
     "Estudos Javascript/Anotações Uteis.md",
