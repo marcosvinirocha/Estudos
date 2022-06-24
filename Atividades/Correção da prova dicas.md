@@ -1,5 +1,5 @@
 - [ ] fidelidade ao prototipo
-- [ ] ajustar carrinho no formato monetario
+- [x] ajustar carrinho no formato monetario
 - [ ] background das bolas selecionadas de acordo com jogo
 - [ ] calculo das bolas seleciondados de acordo com o jogo quando apresentar a mensagem
 - [ ] não deixar que a bolas seleciiondas do jogo nao seja ultrapassadas de acordo com a quantidade de bolas selecionadas
