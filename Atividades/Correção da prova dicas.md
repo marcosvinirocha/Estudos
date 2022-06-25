@@ -1,4 +1,4 @@
-- [ ] fidelidade ao prototipo
+- [x] fidelidade ao prototipo
 - [x] ajustar carrinho no formato monetario
 - [ ] css dos butoes via javascript
 - [ ] background das bolas selecionadas de acordo com jogo
