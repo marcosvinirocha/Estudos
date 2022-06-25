@@ -3,6 +3,6 @@
 - [ ] css dos butoes via javascript
 - [ ] background das bolas selecionadas de acordo com jogo
 - [ ] calculo das bolas seleciondados de acordo com o jogo quando apresentar a mensagem
-- [ ] não deixar que a bolas seleciiondas do jogo nao seja ultrapassadas de acordo com a quantidade de bolas selecionadas
+- [x] não deixar que a bolas seleciiondas do jogo nao seja ultrapassadas de acordo com a quantidade de bolas selecionadas
 - [x] add um scroll no carrinho de compras de acordo com a quantidade de apostas selecionadas.
 - [x] ajustar o calculo do carrinho pois se o manoel perceber vai falar de novo
