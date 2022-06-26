@@ -1,7 +1,7 @@
 - [x] fidelidade ao prototipo
 - [x] ajustar carrinho no formato monetario
-- [ ] css dos butoes via javascript
-- [ ] background das bolas selecionadas de acordo com jogo
+- [x] css dos butoes via javascript
+- [x] background das bolas selecionadas de acordo com jogo
 - [ ] calculo das bolas seleciondados de acordo com o jogo quando apresentar a mensagem
 - [ ] Dar uma olhada para o calculo para remover jogo e fazer a somatoria, verificar no youtube coisas similares.
 - [x] não deixar que a bolas seleciiondas do jogo nao seja ultrapassadas de acordo com a quantidade de bolas selecionadas
