@@ -1,3 +1,3 @@
 - [ ] carrinho de compras remover referente ao jogo selecionado
-- [ ] feedback dos jogos quando todos os jogos são selecionados
+- [x] feedback dos jogos quando todos os jogos são selecionados
 - [ ] css dos jogos quando os jogos que for add json carregar randomicamente
