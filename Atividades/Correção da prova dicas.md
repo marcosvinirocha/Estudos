@@ -1,10 +1,1 @@
-- [x] fidelidade ao prototipo
-- [x] ajustar carrinho no formato monetario
-- [x] css dos butoes via javascript
-- [x] background das bolas selecionadas de acordo com jogo
-- [x] calculo das bolas seleciondados de acordo com o jogo quando apresentar a mensagem
-- [x] pegar o valor qte das bolas selecionadas e subtrair com as selecionadas
-- [x] Dar uma olhada para o calculo para remover jogo e fazer a somatoria, verificar no youtube coisas similares.
-- [x] não deixar que a bolas seleciiondas do jogo nao seja ultrapassadas de acordo com a quantidade de bolas selecionadas
-- [x] add um scroll no carrinho de compras de acordo com a quantidade de apostas selecionadas.
-- [x] ajustar o calculo do carrinho pois se o manoel perceber vai falar de novo
+- [x] carrinho de compras remover 

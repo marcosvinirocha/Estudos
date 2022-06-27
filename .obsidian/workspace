@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f03b67d7048ba414",
+        "id": "c62d1b332dc8faf8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Atividades/Correção da prova dicas.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -103,9 +103,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f03b67d7048ba414",
+  "active": "c62d1b332dc8faf8",
   "lastOpenFiles": [
     "Atividades/Correção da prova dicas.md",
+    "Sem título.md",
     "Estudos Javascript/Cola Javascript.md",
     "Atividades/timeshift commits.md",
     "Atividades/Atividades dia a dia.md",
@@ -113,7 +114,6 @@
     "Estudos Javascript/Serch select javascript.md",
     "Estudos Javascript/Percorrer Dom Javascript.md",
     "Estudos Javascript/Javascript-DOM-API-cheatsheet.md",
-    "Estudos Javascript/regex.md",
-    "Estudos Javascript/horario para add no timeshift.md"
+    "Estudos Javascript/regex.md"
   ]
 }
