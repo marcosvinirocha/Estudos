@@ -3,6 +3,7 @@
 - [x] css dos butoes via javascript
 - [x] background das bolas selecionadas de acordo com jogo
 - [ ] calculo das bolas seleciondados de acordo com o jogo quando apresentar a mensagem
+- [ ] pegar o valor qte das bolas selecionadas e subtrair com as selecionadas
 - [ ] Dar uma olhada para o calculo para remover jogo e fazer a somatoria, verificar no youtube coisas similares.
 - [x] não deixar que a bolas seleciiondas do jogo nao seja ultrapassadas de acordo com a quantidade de bolas selecionadas
 - [x] add um scroll no carrinho de compras de acordo com a quantidade de apostas selecionadas.
